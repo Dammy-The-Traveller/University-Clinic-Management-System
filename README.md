@@ -1,6 +1,7 @@
 # University Clinic Management System
 
 A modern, web-based clinic management system built with PHP that streamlines patient care, appointments, prescriptions, and medical operations.
+<img width="1894" height="889" alt="image" src="https://github.com/user-attachments/assets/e624f971-a09a-41fb-bc14-bb7132378877" />
 
 ## Table of Contents
 
